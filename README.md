@@ -1,5 +1,5 @@
 * 👋Hi, I am Harvie Allen Porcadas
-* 🔭I am interested in front-end, back-end, and machine learning
+* 🔭I am interested in front-end, back-end, machine learning, and hardware design
 * 🌱I am currently a student at SDSU
 * 💙I'm looking to collaborate on any projects that I can provide assistance on
 
