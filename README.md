@@ -1,4 +1,9 @@
-### Hi there 👋
+* 👋Hi, I am Harvie Allen Porcadas
+* 🔭I am interested in front-end, back-end, and machine learning
+* 🌱I am currently a student at SDSU
+* 💙I'm looking to collaborate on any projects that I can provide assistance on
+
+
 
 <!--
 **Harviiep/Harviiep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
